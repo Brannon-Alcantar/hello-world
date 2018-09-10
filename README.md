@@ -1,5 +1,4 @@
 # hello-world
 First repository on Git Hub!
 
-Hey there! My name is Brannon! I am a highschooler just learning the basics of computer programming. I aspire to learn
-alot more about the programming world and to become a proficient programmer!
+Hey there! My name is Brannon! Im a full time college student looking to build my programming skills in several different languages. Hoping to find a job in software development/programming.
