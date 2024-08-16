@@ -1,7 +1,7 @@
 # hello-world
 Hello World! Thought I should update this repository.
 
-My name is Brannon Alcantar, and I am an aspiring Software Engineer eager to further develop my skills. With a Bachelor of Science in Computer Science from the University of Michigan – Dearborn and extensive hands-on experience as a Research Assistant at the University of Michigan, I am searching for a Software Engineering position that where I can furthur my development skills and help contribute my current skills to a development team.
+My name is Brannon Alcantar, and I am an aspiring Software Engineer eager to further develop my skills. With a Bachelor of Science in Computer Science from the University of Michigan – Dearborn and extensive hands-on experience as a Research Assistant at the University of Michigan, I am searching for a Software Engineering position where I can furthur my development skills and help contribute my current skills to a development team.
 
 I have worked on a variety of projects, collaborating with project managers to develop and deploy efficient and scalable software solutions while maintaining existing code and implementing testing practices. My experience spans both back-end and front-end development, utilizing languages such as Java, C#, Python, and SQL.
 
