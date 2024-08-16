@@ -1,6 +1,4 @@
 # hello-world
-First repository on Git Hub!
-
 Hello World! Thought I should update this repository.
 
 My name is Brannon Alcantar, and I am an aspiring Software Engineer eager to further develop my skills. With a Bachelor of Science in Computer Science from the University of Michigan – Dearborn and extensive hands-on experience as a Research Assistant at the University of Michigan, I am searching for a Software Engineering position that where I can furthur my development skills and help contribute my current skills to a development team.
